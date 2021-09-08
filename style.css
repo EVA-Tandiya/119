@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-position: center;
+   background-size: cover;
+}
+
+.heading{
+    font-family: 'Indie Flower', cursive;
+    color: black;
+    box-shadow: 5px 5px 18px rgb(255, 87, 115);
+    border: 5px dashed white;
+}
+canvas{
+    background-color: white;
+    border: 5px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px rgb(111, 167, 111);
+    margin-top: 160px;
+}
